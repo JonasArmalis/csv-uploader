@@ -2,7 +2,7 @@ csv-uploader
 Bonus task for "sourcery-academy" admission process
 
 If you want to save some time or in case it only "works on my machine ;D", you can take a look at a demo video here:
-https://drive.google.com/file/d/1cgAVXEUiN_tup-WuI4IOH4yc-ixT4xVW/view?usp=sharing
+https://drive.google.com/file/d/1cgAVXEUiN_tup-WuI4IOH4yc-ixT4xVW/view?usp=sharing (try downloading the video if google drive doesn't load it)
 
 Requirements:
 Front-end: node.js
