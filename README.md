@@ -26,14 +26,16 @@ How to run the app:
 4. run command "npm install"
 5. run command "npm start" (front end application should start on localhost port 3000)
 
+
 6. open a second terminal
 7. navigate to the directory "./csv-back" in the second terminal
 8. run "mvn compile" command
 9. run "mvn spring-boot:run" command
+
 (steps 6-9 can be replaced with a java IDE which can run maven projects)
 
 10. navigate to localhost:3000
-11 click "Upload" button
+11. click "Upload" button
 12. select a csv file of this format:
 ![image](https://user-images.githubusercontent.com/69421425/220403387-19384904-8533-40c6-ad9d-d0dbc966a9e6.png)
 (2 example files are provided in this repo)
