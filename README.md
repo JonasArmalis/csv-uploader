@@ -5,12 +5,16 @@ If you want to save some time or in case it only "works on my machine ;D", you c
 https://drive.google.com/file/d/1cgAVXEUiN_tup-WuI4IOH4yc-ixT4xVW/view?usp=sharing (try downloading the video if google drive doesn't load it)
 
 Requirements:
+
 Front-end: node.js
+
 Back-end: java 19, maven
 
 Download links:
 https://maven.apache.org/download.cgi
+
 https://www.oracle.com/java/technologies/javase/jdk19-archive-downloads.html
+
 https://nodejs.org/en/download/
 
 
